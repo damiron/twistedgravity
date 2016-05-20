@@ -1,0 +1,5 @@
+com.NCWJ.TwistedGravity
+keystore password: vltra666
+SHA1: F0:17:46:CB:8A:0A:6F:C9:92:23:99:D1:15:4B:D9:04:6D:71:D1:76
+client id: 138225459576-5g7jsjbg2cbgusminj9bfu0583d66l4g.apps.googleusercontent.com
+app id: 138225459576
